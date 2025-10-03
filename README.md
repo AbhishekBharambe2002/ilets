@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 
 1️⃣ Clone the repo
 git clone
-cd frontend
+
 
 2️⃣ Install dependencies
 npm install
