@@ -17,7 +17,18 @@ A modern and responsive web application for booking IELTS coaching classes. Buil
 ⚡ React Hooks (useState) for state management
 
 🖼️ Screenshots
-<img width="1895" height="623" alt="Screenshot 2025-10-04 010708" src="https://github.com/user-attachments/assets/58d930ba-eddf-4961-aab3-712335910e4e" />
+Home
+<img width="1884" height="873" alt="Screenshot 2025-10-04 010553" src="https://github.com/user-attachments/assets/558901c3-50e9-4122-9d69-127fe670bd6a" />
+<img width="1891" height="863" alt="Screenshot 2025-10-04 010603" src="https://github.com/user-attachments/assets/81c57a6a-08ee-4831-b9a8-3893993a5c01" />
+<img width="1894" height="871" alt="Screenshot 2025-10-04 010612" src="https://github.com/user-attachments/assets/9c5697af-9260-4bba-a64d-78954f79294e" />
+<img width="1893" height="861" alt="Screenshot 2025-10-04 010628" src="https://github.com/user-attachments/assets/389bd153-31e2-4ea7-9a6b-d92a9fd269f5" />
+
+Features
+<img width="1888" height="717" alt="Screenshot 2025-10-04 010642" src="https://github.com/user-attachments/assets/004ea7c5-fb77-4e77-92d1-733765aed150" />
+<img width="1896" height="637" alt="Screenshot 2025-10-04 010652" src="https://github.com/user-attachments/assets/6c2bd32c-ff8a-4121-b5a7-0292aed430a1" />
+<img width="1894" height="639" alt="Screenshot 2025-10-04 010700" src="https://github.com/user-attachments/assets/7c057d91-a584-4f01-b970-f19f3013bce6" />
+<img width="1895" height="623" alt="Screenshot 2025-10-04 010708" src="https://github.com/user-attachments/assets/97ae40ca-aa54-45e5-be9c-4b32797752cc" />
+
 
 🛠️ Tech Stack
 
@@ -32,8 +43,8 @@ Deployment: Vercel / Netlify (recommended)
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repo
-git clone https://github.com/your-username/ielts-training-website.git
-cd ielts-training-website
+git clone
+cd frontend
 
 2️⃣ Install dependencies
 npm install
