@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+📘 IELTS Training Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive web application for booking IELTS coaching classes. Built with React + Tailwind CSS, the platform provides an engaging homepage, class booking modal, and a smooth user experience.
 
-## Available Scripts
+✨ Features
 
-In the project directory, you can run:
+🎯 Hero Section with call-to-action (CTA)
 
-### `npm start`
+📅 Class Booking Modal – select date & time
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✅ Success Alert when booking is confirmed
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📱 Responsive Design (desktop + mobile)
 
-### `npm test`
+🎨 Tailwind CSS styling for clean UI
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+⚡ React Hooks (useState) for state management
 
-### `npm run build`
+🖼️ Screenshots
+<img width="1895" height="623" alt="Screenshot 2025-10-04 010708" src="https://github.com/user-attachments/assets/58d930ba-eddf-4961-aab3-712335910e4e" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Frontend: React.js, Tailwind CSS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Package Manager: npm
 
-### `npm run eject`
+Deployment: Vercel / Netlify (recommended)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🚀 Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Follow these steps to run the project locally:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1️⃣ Clone the repo
+git clone https://github.com/your-username/ielts-training-website.git
+cd ielts-training-website
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2️⃣ Install dependencies
+npm install
 
-## Learn More
+3️⃣ Run the app
+npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Now the app will be available at http://localhost:3000
+ 🎉
